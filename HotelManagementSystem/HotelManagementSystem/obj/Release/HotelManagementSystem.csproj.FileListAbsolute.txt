@@ -1,0 +1,12 @@
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\Release\HotelManagementSystem.exe.config
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\Release\HotelManagementSystem.exe
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\Release\HotelManagementSystem.pdb
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\obj\Release\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\obj\Release\HotelManagementSystem.exe
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\obj\Release\HotelManagementSystem.pdb
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\obj\Release\HotelManagementSystem.csprojAssemblyReference.cache
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\Release\Google.Protobuf.dll
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\Release\MySql.Data.dll
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\Release\Google.Protobuf.xml
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\Release\MySql.Data.xml
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\obj\Release\HotelManagementSystem.csproj.CopyComplete

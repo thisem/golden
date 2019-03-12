@@ -1,0 +1,13 @@
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x86\costume\KIARARF.dll
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x86\costume\kiara.ini
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x86\costume\HotelManagementSystem.exe.config
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x86\costume\HotelManagementSystem.exe
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x86\costume\Google.Protobuf.dll
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x86\costume\INIFileParser.dll
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x86\costume\MySql.Data.dll
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x86\costume\Google.Protobuf.xml
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x86\costume\INIFileParser.xml
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x86\costume\MySql.Data.xml
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\obj\x86\costume\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\obj\x86\costume\HotelManagementSystem.csproj.CopyComplete
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\obj\x86\costume\HotelManagementSystem.exe

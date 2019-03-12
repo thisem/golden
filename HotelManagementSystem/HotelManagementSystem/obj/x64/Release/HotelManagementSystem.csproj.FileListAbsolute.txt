@@ -1,0 +1,12 @@
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x64\Release\HotelManagementSystem.exe.config
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x64\Release\HotelManagementSystem.exe
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x64\Release\HotelManagementSystem.pdb
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x64\Release\Google.Protobuf.dll
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x64\Release\KIARAKARTU.dll
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x64\Release\MySql.Data.dll
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x64\Release\Google.Protobuf.xml
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\bin\x64\Release\MySql.Data.xml
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\obj\x64\Release\HotelManagementSystem.csproj.CoreCompileInputs.cache
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\obj\x64\Release\HotelManagementSystem.csproj.CopyComplete
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\obj\x64\Release\HotelManagementSystem.exe
+D:\DATA\PROJECT\HOTEL\HMS\HotelManagementSystem\HotelManagementSystem\obj\x64\Release\HotelManagementSystem.pdb
